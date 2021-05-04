@@ -1,6 +1,6 @@
 # Yoga-for-anyone
 Introduction
-My first project for The Code Institue, as a new student I just started the full stack developer course. For my first work i picked Yoga and to make a website what helps and shows other people like me for example who never practiced Yoga, how to start to make the first step.
+My first project for The Code Institue, as a new student I just started the full stack developer course. For my first work i picked Yoga and to make a website what helps and shows other people for example like me, who never practiced Yoga, how to take the first step.
 
 UX
 
