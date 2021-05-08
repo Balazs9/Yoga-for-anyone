@@ -1,1 +1,1 @@
-# Yoga-for-anyone
+# Yoga-for-everyone
